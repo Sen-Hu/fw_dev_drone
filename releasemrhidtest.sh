@@ -1,0 +1,1 @@
+python ../tls/scripts/depotrun.py //Firmware/mainline/tls/scripts/streamrelease.py $* regression/msgroute/msgroute.release --operation full
